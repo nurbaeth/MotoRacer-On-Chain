@@ -16,7 +16,7 @@ MotoRacer On-Chain is a fully decentralized motorcycle racing game built on Soli
 
 ## Getting Started
 ### Deployment
-1. Clone the repository:
+1. Clone the repository: 
    ```sh
    git clone https://github.com/yourusername/MotoRacerOnChain.git
    cd MotoRacerOnChain
