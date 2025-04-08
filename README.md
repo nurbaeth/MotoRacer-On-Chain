@@ -6,7 +6,7 @@ MotoRacer On-Chain is a fully decentralized motorcycle racing game built on Soli
 - **On-Chain Racing**: Every race result is recorded on the blockchain.
 - **Player Registration**: Players can join by selecting a bike.
 - **Randomized Outcomes**: Race results are determined using on-chain randomness.
-- **Fair and Transparent**: No centralized authority influences the game.
+- **Fair and Transparent**: No centralized authority influences the game. 
 
 ## How It Works
 1. Players register by calling `register(uint8 _bikeId)`, selecting their preferred bike.
